@@ -174,9 +174,8 @@ Stategic Implications:
 * Trend Analysis: To see the keywords are consistently popular or their performance varies over time.
 * Audience Demographics: Understand which keywords are popular for the demographics and tailor the content for the audience.
 * Enagagement Metrics: Understand audience interaction beyond just views, like the video view time, shares  
-* To see if high like to view ratios correlate with the longer watch times.
-* Do the highly engaged videos converts viewers to subscribers
-* Analyze the all the comment of these videos and understand why the people like these videos.
-* Bring video count for each keywords to see if there are very few number of the video in the bottom keywords.
-* Performance the time series analysis for comment counts for these keywords over time.  
-* A more robust analysis can be performed if all the comments are available for a video.
+* Subscriber Analysis: Do the highly engaged videos converts viewers to subscribers
+* Comments Analysis: Analyze all the comment of the videos and understand why the people like these videos.
+* Time Series Anslysis: Performance the time series analysis for comment counts for the video over time rather than working with just snapshot.  
+* Sentiment analysis expansion: A more robust analysis can be performed if all the comments are available for a video.
+* Enhancing the logic for Engagement Metrics to use a wighted formula
