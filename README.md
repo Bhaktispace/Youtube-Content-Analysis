@@ -31,7 +31,7 @@ Python
 
 # Key Observations and Recommendations
 * **Top 5 Keywords by Average Views**
-
+![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Top%205%20Keywords.png?raw=true)
 This bar chart visualizes the average video views for the top 5 keywords, providing insights into which content theme resonates with the viewers.
 Key observations:
 1. Dominance of google and animal: This suggests that the content related to these broad categories consistently attracts a very large audience.
