@@ -50,6 +50,8 @@ Potential Implications and Recommentations:
 
 * **Videos with high Like to View Ratio and their Keywords**
 
+![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/high%20like%20to%20view%20ratio.png?raw=true)
+
 This metric is crucial as it not only highlights the numbers of viewers it attracts but gives the information how many are engaging with the video.
 
 Key Observations:
