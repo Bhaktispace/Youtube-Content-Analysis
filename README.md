@@ -30,7 +30,7 @@ Working with two main datasets:
 Python
 
 # Key Observations and Recommendations
-* **Top 5 Keywords by Average Views**
+1. **Top 5 Keywords by Average Views**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Top%205%20Keywords.png?raw=true)
 
