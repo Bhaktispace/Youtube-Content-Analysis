@@ -1,3 +1,5 @@
+# Youtube Content Analysis
+<img src="https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Main.png?raw=true">
 
 # Business Problem
 With millions of videos uploaded online, creators need data driven strategies to enhance content visibilty, engagement and emotional resonance. This project uncover patterns between video metadata (views, likes, keywords) and comment sentiment to identify what makes a video successful.
