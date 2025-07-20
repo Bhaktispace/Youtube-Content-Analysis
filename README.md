@@ -148,7 +148,7 @@ Potential Implications and Recommendations:
 
 * **How Views, Likes and Comments metrics interact with each other and can they predict engagement or content success**
 
-![image alt] (https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/How%20Views,%20Likes%20and%20Comments%20metrics%20interact%20with%20each%20other.png?raw=true)
+![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/How%20Views,%20Likes%20and%20Comments%20metrics%20interact%20with%20each%20other.png?raw=true)
 
 Key Observations:
 1. Views and Likes have a Correlation of 0.76.
