@@ -30,7 +30,7 @@ Working with two main datasets:
 Python
 
 # Key Observations and Recommendations
-1. **Top 5 Keywords by Average Views**
+* **Top 5 Keywords by Average Views**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Top%205%20Keywords.png?raw=true)
 
@@ -49,7 +49,7 @@ Potential Implications and Recommentations:
 5. For music content, it might be beneficial to analyze what specific types of music, artists, or video formats perform best to optimize engagement and average views. Strategies could include focusing on trending artists, specific genres, or unique video concepts
 
 
-2. **Videos with high Like to View Ratio and their Keywords**
+* **Videos with high Like to View Ratio and their Keywords**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/high%20like%20to%20view%20ratio.png?raw=true)
 
@@ -66,7 +66,7 @@ Potential Implications and Recommendations:
 2. The high engagement for education, gaming and chess indicates that creating content for specific, passionate comuunites can yield high satisfaction rates.
 
 
-3. **Keywords that generates most and least comments**
+* **Keywords that generates most and least comments**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Keywords%20that%20generates%20most%20and%20least%20comments.png?raw=true)
 
@@ -85,7 +85,7 @@ Potential Implicationa dn Recommendations:
 3. For categories with low comment counts need to understand is to due to content nature, do the audience prefers passive consumption.
 
 
-4. **Engagament Score and find top 10 videos**
+* **Engagament Score and find top 10 videos**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Engagament%20Score%20and%20find%20top%2010%20videos.png?raw=true)
 
@@ -102,7 +102,7 @@ Potential Implications and Recommendations:
 3. The presence of - in Video ID suggests that there is some analysis required here.
 
 
-5. **Avg Sentiment Scores for comments on videos published in 2022-08**
+* **Avg Sentiment Scores for comments on videos published in 2022-08**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Avg%20Sentiment%20Scores%20for%20comments%20on%20videos%20published%20in%202022-08.png?raw=true)
 
@@ -121,7 +121,7 @@ Potential Implications:
 2. A video with fewer positive comments is more valuable than a video with many negative comments.
 
 
-6. **Monthly Engagement Score for the year 2022**
+* **Monthly Engagement Score for the year 2022**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Monthly%20Engagement%20Score%20for%20the%20year%202022.png?raw=true)
 
@@ -152,7 +152,7 @@ Potential Implications and Recommendations:
 11. Gradually expand into underperforming topics that align with audience interests
 
 
-7. **How Views, Likes and Comments metrics interact with each other and can they predict engagement or content success**
+* **How Views, Likes and Comments metrics interact with each other and can they predict engagement or content success**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/How%20Views,%20Likes%20and%20Comments%20metrics%20interact%20with%20each%20other.png?raw=true)
 
