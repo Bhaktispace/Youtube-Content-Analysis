@@ -48,7 +48,7 @@ Potential Implications and Recommentations:
 4. Further investigation would be needed to categorization of this keyword to understand it is miscategorization of the keyword bed instead of music.
 5. For music content, it might be beneficial to analyze what specific types of music, artists, or video formats perform best to optimize engagement and average views. Strategies could include focusing on trending artists, specific genres, or unique video concepts
 
-* **Videos with high Like to View Ratio and their Keywords**
+2. **Videos with high Like to View Ratio and their Keywords**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/high%20like%20to%20view%20ratio.png?raw=true)
 
@@ -64,7 +64,7 @@ Potential Implications and Recommendations:
 1. For content creators, focusing on the like to view ratio can be powerful strategy for identyfying impactful videos. 
 2. The high engagement for education, gaming and chess indicates that creating content for specific, passionate comuunites can yield high satisfaction rates.
 
-* **Keywords that generates most and least comments**
+3. **Keywords that generates most and least comments**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Keywords%20that%20generates%20most%20and%20least%20comments.png?raw=true)
 
@@ -82,7 +82,7 @@ Potential Implicationa dn Recommendations:
 2. If the goal is discussion and interaction, focusing on videos that start opinions, debates would be beneficial.
 3. For categories with low comment counts need to understand is to due to content nature, do the audience prefers passive consumption.
 
-* **Engagament Score and find top 10 videos**
+4. **Engagament Score and find top 10 videos**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Engagament%20Score%20and%20find%20top%2010%20videos.png?raw=true)
 
@@ -98,7 +98,7 @@ Potential Implications and Recommendations:
 2. High engagement often correlates with brand loyalty and deeper connection, which can be valuable for sponsorships, merchandise, or community-driven monetization models, even for videos with fewer absolute views.
 3. The presence of - in Video ID suggests that there is some analysis required here.
 
-* **Avg Sentiment Scores for comments on videos published in 2022-08**
+5. **Avg Sentiment Scores for comments on videos published in 2022-08**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Avg%20Sentiment%20Scores%20for%20comments%20on%20videos%20published%20in%202022-08.png?raw=true)
 
@@ -116,7 +116,7 @@ Potential Implications:
 1. For the reputation of brand negative sentiment can take away trust and viewership over time.
 2. A video with fewer positive comments is more valuable than a video with many negative comments.
 
-* **Monthly Engagement Score for the year 2022**
+6. **Monthly Engagement Score for the year 2022**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Monthly%20Engagement%20Score%20for%20the%20year%202022.png?raw=true)
 
@@ -146,7 +146,7 @@ Potential Implications and Recommendations:
 10. Develop content formats that can span multiple topic categories
 11. Gradually expand into underperforming topics that align with audience interests
 
-* **How Views, Likes and Comments metrics interact with each other and can they predict engagement or content success**
+7. **How Views, Likes and Comments metrics interact with each other and can they predict engagement or content success**
 
 ![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/How%20Views,%20Likes%20and%20Comments%20metrics%20interact%20with%20each%20other.png?raw=true)
 
