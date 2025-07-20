@@ -66,6 +66,8 @@ Potential Implications and Recommendations:
 
 * **Keywords that generates most and least comments**
 
+![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Keywords%20that%20generates%20most%20and%20least%20comments.png?raw=true)
+
 This visualization of the keywords that generates the highest and the least comments serves as an indicator of interaction by the viewers.
 
 Key Observations:
@@ -82,6 +84,8 @@ Potential Implicationa dn Recommendations:
 
 * **Engagament Score and find top 10 videos**
 
+![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Engagament%20Score%20and%20find%20top%2010%20videos.png?raw=true)
+
 Key Observations and Insights:
 1. The video "Education should be a right.." has the highest engagement score of 26.3%. the video has a relatively low views but high likes and comments indicates that the viewers are engaged audience for this topic.
 2. There are 3 videos for gaming  which has a high engagement score. This highlights the consistently high engagement within the gaming community, whether it's for music mixes, gameplay commentary, or specific game-related content.
@@ -95,6 +99,8 @@ Potential Implications and Recommendations:
 3. The presence of - in Video ID suggests that there is some analysis required here.
 
 * **Avg Sentiment Scores for comments on videos published in 2022-08**
+
+![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Avg%20Sentiment%20Scores%20for%20comments%20on%20videos%20published%20in%202022-08.png?raw=true)
 
 This table presents the average sentiment scores for the top 10 comments on a selection of videos published in August 2022. The sentiment score, ranging from -1 (most negative) to 1 (most positive), indicates the overall emotional tone of the comments. 
 Sentiment Analysis adds a qualitative layer to engagement metrics. Avideo might have high views and comments but if those comments are negative then it a different story than highly positive engagement.
@@ -111,6 +117,8 @@ Potential Implications:
 2. A video with fewer positive comments is more valuable than a video with many negative comments.
 
 * **Monthly Engagement Score for the year 2022**
+
+![image alt](https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/Monthly%20Engagement%20Score%20for%20the%20year%202022.png?raw=true)
 
 The heatmap visualizes the average Engagement Scorefor the various keywords across different months from Jan 20222 to Aug 2022. The color intensity (from light yellow for low engagement to blue for high engagement) allows for quick identification of trends and peaks in audience interaction.
 
@@ -139,6 +147,8 @@ Potential Implications and Recommendations:
 11. Gradually expand into underperforming topics that align with audience interests
 
 * **How Views, Likes and Comments metrics interact with each other and can they predict engagement or content success**
+
+![image alt] (https://github.com/Bhaktispace/Youtube-Content-Analysis/blob/main/graphs/How%20Views,%20Likes%20and%20Comments%20metrics%20interact%20with%20each%20other.png?raw=true)
 
 Key Observations:
 1. Views and Likes have a Correlation of 0.76.
