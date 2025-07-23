@@ -177,6 +177,7 @@ Stategic Implications:
 
 # Future Project Ideas
 
+* Create a dashboard in Power BI
 * Trend Analysis: To see the keywords are consistently popular or their performance varies over time.
 * Audience Demographics: Understand which keywords are popular for the demographics and tailor the content for the audience.
 * Enagagement Metrics: Understand audience interaction beyond just views, like the video view time, shares  
